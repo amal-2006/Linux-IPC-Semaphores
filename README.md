@@ -73,6 +73,7 @@ $ ./sem.o
 ![image](https://github.com/user-attachments/assets/91657769-58f0-444b-bde2-f0b43d85543b)
 
 $ ipcs
+
 ![image](https://github.com/user-attachments/assets/6cd7b762-0750-45c5-a61f-5a31009ecbfb)
 
 
